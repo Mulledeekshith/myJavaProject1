@@ -8,7 +8,5 @@ public class Calc {
 public int findCube(int num) {
 		return num*num*num;
 	}
-	public int findsum(int num1,int num2) {
-		return num1+num2;
-	}
+	
 }
